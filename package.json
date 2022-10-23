@@ -1,0 +1,16 @@
+{
+  "name": "es-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "https://github.com/gurov-e",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "tailwindcss": "^3.1.8"
+  }
+}
